@@ -1,4 +1,4 @@
-const solution = require('./arrays');
+const solution = require('./timeComplexity/PermMissingElem');
 
-const result = solution([9,3,9,3,9,7,9]);
+const result = solution([1,2]);
 console.log(result);
