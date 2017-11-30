@@ -1,4 +1,4 @@
-function solution(N) {
+module.exports = function solution(N) {
     // write your code in JavaScript (Node.js 6.4.0)
     const binary = N.toString(2);
     let aux = 0, gap = 0;

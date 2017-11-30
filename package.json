@@ -1,0 +1,20 @@
+{
+  "name": "codility",
+  "version": "1.0.0",
+  "description": "resolucion de lessons",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon lessons/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alefherrera/codility.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alefherrera/codility/issues"
+  },
+  "homepage": "https://github.com/alefherrera/codility#readme"
+}
